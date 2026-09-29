@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
@@ -21,4 +22,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

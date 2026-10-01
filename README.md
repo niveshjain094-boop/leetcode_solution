@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1051-height-checker](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1051-height-checker) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1051-height-checker](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1470-shuffle-the-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |

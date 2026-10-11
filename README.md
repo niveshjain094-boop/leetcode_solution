@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 ## Binary Search

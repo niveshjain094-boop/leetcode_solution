@@ -11,11 +11,9 @@ public:
               temp = temp*nums[i];
         }
         temp=1;
-       int k=nums.size()-1;
       for(int i = n-1 ; i>=0; i--){
              
-             ans[k]= temp *ans[k];
-             k--;
+             ans[i]= temp *ans[i];
              temp = temp * nums[i];
            
       }

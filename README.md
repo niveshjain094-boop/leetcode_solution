@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1512-number-of-good-pairs) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0344-reverse-string) |

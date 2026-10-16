@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -118,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

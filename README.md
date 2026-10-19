@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0561-array-partition) |
+| [0821-shortest-distance-to-a-character](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0821-shortest-distance-to-a-character) |
 | [1051-height-checker](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0344-reverse-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0821-shortest-distance-to-a-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0821-shortest-distance-to-a-character) |
 ## Queue
 |  |
 | ------- |

@@ -1,18 +1,22 @@
+
 class Solution {
 public:
     int firstUniqChar(string s) {
-        vector<int> count(26, 0);
-        
-        for (char c : s) {
-            count[c - 'a']++;
-        }
-        
         for (int i = 0; i < s.length(); i++) {
-            if (count[s[i] - 'a'] == 1) {
+            bool unique = true;
+
+            for (int j = 0; j < s.length(); j++) {
+                if (i != j && s[i] == s[j]) {
+                    unique = false;
+                    break;
+                }
+            }
+
+            if (unique) {
                 return i;
             }
         }
-        
+
         return -1;
     }
 };

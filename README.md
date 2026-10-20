@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1920-build-array-from-permutation) |
+| [2399-check-distances-between-same-letters](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2399-check-distances-between-same-letters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1512-number-of-good-pairs) |
+| [2399-check-distances-between-same-letters](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2399-check-distances-between-same-letters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0821-shortest-distance-to-a-character) |
+| [2399-check-distances-between-same-letters](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2399-check-distances-between-same-letters) |
 ## Queue
 |  |
 | ------- |

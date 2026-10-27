@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

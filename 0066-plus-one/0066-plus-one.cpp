@@ -6,12 +6,14 @@ public:
             
             
 
-            if(digits[i] != 9 ){
+            if(digits[i]== 9 ){
+                
+                digits[i]=0;
+            }
+            else {
                 digits[i]+=1;
                 return digits;
             }
-            else digits[i]=0;
-
             
         }
         if(digits[0]==0){

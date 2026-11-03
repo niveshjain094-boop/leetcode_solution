@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1512-number-of-good-pairs) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |

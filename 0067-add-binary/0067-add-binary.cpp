@@ -10,14 +10,16 @@ public:
      while (i >= 0 || j >= 0 || carry) {
 
      int sum = carry;
+     if (j >= 0) {
+                sum += b[j] - '0';
+                j--;
+            }
+            
    if (i >= 0) {
                 sum += a[i] - '0';
                 i--;
             }
- if (j >= 0) {
-                sum += b[j] - '0';
-                j--;
-            }
+ 
 
             ans.push_back((sum % 2) + '0');
             carry = sum / 2;

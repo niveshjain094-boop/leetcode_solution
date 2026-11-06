@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0189-rotate-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0561-array-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0509-fibonacci-number) |

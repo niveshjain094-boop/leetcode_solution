@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1920-build-array-from-permutation](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2399-check-distances-between-same-letters](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2399-check-distances-between-same-letters) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |

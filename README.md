@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2399-check-distances-between-same-letters) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Queue
 |  |
 | ------- |

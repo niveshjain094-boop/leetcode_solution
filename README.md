@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2399-check-distances-between-same-letters](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2399-check-distances-between-same-letters) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0561-array-partition) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Indexed Tree

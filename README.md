@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0031-next-permutation) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0067-add-binary) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

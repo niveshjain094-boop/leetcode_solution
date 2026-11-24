@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0821-shortest-distance-to-a-character](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0821-shortest-distance-to-a-character) |
+| [0977-squares-of-a-sorted-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1470-shuffle-the-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0821-shortest-distance-to-a-character](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0821-shortest-distance-to-a-character) |
+| [0977-squares-of-a-sorted-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2567-minimum-score-by-changing-two-elements) |

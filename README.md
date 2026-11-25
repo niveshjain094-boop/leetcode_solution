@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2399-check-distances-between-same-letters) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
+| [2765-longest-alternating-subarray](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2765-longest-alternating-subarray) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2765-longest-alternating-subarray](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2765-longest-alternating-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |

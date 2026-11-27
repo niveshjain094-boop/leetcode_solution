@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0821-shortest-distance-to-a-character](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/0821-shortest-distance-to-a-character) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -279,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Stack
+|  |
+| ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/niveshjain094-boop/leetcode_solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
